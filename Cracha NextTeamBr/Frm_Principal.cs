@@ -28,5 +28,12 @@ namespace Cracha_NextTeamBr
 
             frm_Motorista.Show();
         }
+
+        private void Btm_Admin_Click(object sender, EventArgs e)
+        {
+            Frm_Administrador frm_admin = new Frm_Administrador();
+
+            frm_admin.Show();
+        }
     }
 }

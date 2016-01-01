@@ -1,0 +1,9 @@
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\bin\Release\Cracha NextTeamBr.exe.config
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\bin\Release\Cracha NextTeamBr.exe
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\bin\Release\Cracha NextTeamBr.pdb
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha_NextTeamBr.Frm_Motorista.resources
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha_NextTeamBr.Frm_Principal.resources
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha_NextTeamBr.Properties.Resources.resources
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.csproj.GenerateResource.Cache
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.exe
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.pdb

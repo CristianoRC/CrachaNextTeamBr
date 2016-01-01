@@ -8,3 +8,14 @@ D:\Cristiano\Projetos\Cracha NextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha_NextT
 D:\Cristiano\Projetos\Cracha NextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha NextTeamBr.csproj.GenerateResource.Cache
 D:\Cristiano\Projetos\Cracha NextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha NextTeamBr.exe
 D:\Cristiano\Projetos\Cracha NextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha NextTeamBr.pdb
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\bin\Debug\Cracha NextTeamBr.exe.config
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha NextTeamBr.exe
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha NextTeamBr.pdb
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\bin\Debug\Cracha NextTeamBr.exe
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\bin\Debug\Cracha NextTeamBr.pdb
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha NextTeamBr.csprojResolveAssemblyReference.cache
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha_NextTeamBr.Frm_Motorista.resources
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha_NextTeamBr.Frm_Principal.resources
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha_NextTeamBr.Properties.Resources.resources
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha NextTeamBr.csproj.GenerateResource.Cache
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Debug\Cracha_NextTeamBr.Frm_Administrador.resources

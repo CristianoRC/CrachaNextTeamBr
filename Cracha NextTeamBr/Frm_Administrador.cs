@@ -5,14 +5,15 @@ using System.Windows.Forms;
 
 namespace Cracha_NextTeamBr
 {
-    public partial class Frm_Motorista : Form
+    public partial class Frm_Administrador : Form
     {
-        public Frm_Motorista()
+        public Frm_Administrador()
         {
             InitializeComponent();
         }
 
-        private void Frm_Motorista_DoubleClick(object sender, EventArgs e)
+
+        private void Frm_Administrador_DoubleClick(object sender, EventArgs e)
         {
             try
             {
@@ -30,8 +31,8 @@ namespace Cracha_NextTeamBr
             }
             catch (Exception exc)
             {
-                MessageBox.Show($"Ocorreu um erro : {exc.Message}","Erro",MessageBoxButtons.OK,MessageBoxIcon.Error);
-            }           
+                MessageBox.Show($"Ocorreu um erro : {exc.Message}", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void Pic_Motorista_Click(object sender, EventArgs e)
@@ -40,6 +41,7 @@ namespace Cracha_NextTeamBr
             {
                 Pic_Motorista.ImageLocation = openFileDialog1.FileName;
             }
+
         }
 
         private void Txt_Nome_KeyDown(object sender, KeyEventArgs e)
