@@ -7,3 +7,4 @@ D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha_Next
 D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.csproj.GenerateResource.Cache
 D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.exe
 D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.pdb
+D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha_NextTeamBr.Frm_Administrador.resources
