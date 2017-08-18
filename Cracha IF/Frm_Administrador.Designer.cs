@@ -138,6 +138,7 @@
             this.Name = "Frm_Administrador";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Administrador";
+            this.Load += new System.EventHandler(this.Frm_Administrador_Load);
             this.DoubleClick += new System.EventHandler(this.Frm_Administrador_DoubleClick);
             ((System.ComponentModel.ISupportInitialize)(this.Pic_Motorista)).EndInit();
             this.ResumeLayout(false);
