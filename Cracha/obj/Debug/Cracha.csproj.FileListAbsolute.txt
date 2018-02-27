@@ -1,0 +1,13 @@
+/home/cristiano/Projetos/Cracha/Cracha/bin/Debug/Cracha.exe.config
+/home/cristiano/Projetos/Cracha/Cracha/bin/Debug/Cracha.exe
+/home/cristiano/Projetos/Cracha/Cracha/bin/Debug/Cracha.pdb
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha_NextTeamBr.Frm_Administrador.resources
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha_NextTeamBr.Frm_Motorista.resources
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha_NextTeamBr.Frm_Principal.resources
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha_NextTeamBr.Properties.Resources.resources
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha.csproj.GenerateResource.Cache
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha.csproj.CoreCompileInputs.cache
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha.exe
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha.pdb
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha.csprojResolveAssemblyReference.cache
+/home/cristiano/Projetos/Cracha/Cracha/obj/Debug/Cracha.csproj.Cracha.exe.config

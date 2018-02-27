@@ -8,4 +8,3 @@ D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha Next
 D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.exe
 D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.pdb
 D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha_NextTeamBr.Frm_Administrador.resources
-D:\Cristiano\Projetos\CrachaNextTeamBr\Cracha NextTeamBr\obj\Release\Cracha NextTeamBr.csprojResolveAssemblyReference.cache

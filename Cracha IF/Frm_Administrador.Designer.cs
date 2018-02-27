@@ -62,10 +62,10 @@
             this.Txt_Nome.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.Txt_Nome.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Txt_Nome.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.Txt_Nome.Location = new System.Drawing.Point(228, 495);
+            this.Txt_Nome.Location = new System.Drawing.Point(228, 494);
             this.Txt_Nome.Multiline = true;
             this.Txt_Nome.Name = "Txt_Nome";
-            this.Txt_Nome.Size = new System.Drawing.Size(240, 29);
+            this.Txt_Nome.Size = new System.Drawing.Size(240, 30);
             this.Txt_Nome.TabIndex = 4;
             this.Txt_Nome.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Txt_Nome_KeyDown);
             // 
@@ -98,7 +98,7 @@
             this.Txt_Admicao.Location = new System.Drawing.Point(357, 640);
             this.Txt_Admicao.Multiline = true;
             this.Txt_Admicao.Name = "Txt_Admicao";
-            this.Txt_Admicao.Size = new System.Drawing.Size(112, 19);
+            this.Txt_Admicao.Size = new System.Drawing.Size(112, 23);
             this.Txt_Admicao.TabIndex = 8;
             this.Txt_Admicao.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.Txt_Admicao.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Txt_Admicao_KeyDown);
